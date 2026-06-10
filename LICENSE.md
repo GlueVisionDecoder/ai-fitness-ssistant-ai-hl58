@@ -1,4 +1,4 @@
-# 
+# Exclusivo AI Fitness Trainer Assistant scripts. Con procesamiento en tiempo real y analítica predictiva — optimizado para el máximo rendimiento.
 
 
 
